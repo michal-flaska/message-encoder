@@ -32,5 +32,7 @@
     <CopyFileToFolders Include="input.txt" />
     <CopyFileToFolders Include="key.txt" />
     <CopyFileToFolders Include="output.txt" />
+    <CopyFileToFolders Include="LICENSE" />
+    <CopyFileToFolders Include="README.md" />
   </ItemGroup>
 </Project>
