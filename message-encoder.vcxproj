@@ -123,7 +123,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="src\base64.cpp" />
+    <ClCompile Include="src\cipher.cpp" />
+    <ClCompile Include="src\fileio.cpp" />
+    <ClCompile Include="src\main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <CopyFileToFolders Include="input.txt">
