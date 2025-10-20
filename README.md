@@ -13,10 +13,9 @@ Simple command-line tool for encoding and decoding messages using XOR cipher wit
 ## Setup
 
 ### Visual Studio 2022
-1. Create new Empty Project
-2. Create `src/` filter
-3. Add all 4 .cpp files from `src/` folder
-4. Build and run
+1. Clone this repository
+2. Build the project in release mode
+3. Start the .exe file
 
 ## Usage
 
